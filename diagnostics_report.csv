@@ -1,0 +1,7 @@
+check,status,details
+Python Version,PASS,Python 3.13.14 installed
+Operating System,PASS,"Windows 10.0.26300, machine: AMD64"
+Git Installation,WARN,Git is not installed or not available in PATH
+VS Code Installation,PASS,VS Code found at C:\Users\a\AppData\Local\Programs\Microsoft VS Code\bin\code.CMD
+Required Python Packages,PASS,All required Python packages are installed
+Internet Connectivity,PASS,Internet connection is available

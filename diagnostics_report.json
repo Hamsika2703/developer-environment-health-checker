@@ -1,0 +1,32 @@
+[
+    {
+        "check": "Python Version",
+        "status": "PASS",
+        "details": "Python 3.13.14 installed"
+    },
+    {
+        "check": "Operating System",
+        "status": "PASS",
+        "details": "Windows 10.0.26300, machine: AMD64"
+    },
+    {
+        "check": "Git Installation",
+        "status": "WARN",
+        "details": "Git is not installed or not available in PATH"
+    },
+    {
+        "check": "VS Code Installation",
+        "status": "PASS",
+        "details": "VS Code found at C:\\Users\\a\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code.CMD"
+    },
+    {
+        "check": "Required Python Packages",
+        "status": "PASS",
+        "details": "All required Python packages are installed"
+    },
+    {
+        "check": "Internet Connectivity",
+        "status": "PASS",
+        "details": "Internet connection is available"
+    }
+]

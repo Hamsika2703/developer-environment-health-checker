@@ -11,8 +11,8 @@
     },
     {
         "check": "Git Installation",
-        "status": "WARN",
-        "details": "Git is not installed or not available in PATH"
+        "status": "PASS",
+        "details": "Git installed at C:\\Program Files\\Git\\cmd\\git.EXE"
     },
     {
         "check": "VS Code Installation",
